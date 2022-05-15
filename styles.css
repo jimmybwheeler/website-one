@@ -1,0 +1,20 @@
+* {
+    background-color: cyan;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    border: solid 8px darkblue;
+}
+
+li {
+    border: groove 2px red;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
